@@ -23,7 +23,7 @@ import os
 
 
 def load_dataset():
-    file_path = '../dataset/city_day.csv'
+    file_path = 'dataset/city_day.csv'
     df = pd.read_csv(file_path)
     return df
 
