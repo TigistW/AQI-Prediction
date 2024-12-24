@@ -165,5 +165,5 @@ For queries or contributions, please contact:
 Made in contribution to MSc in Artificial Intelligence.
 
 - **Name**: [Tigist Wondimneh]
-- **Email**: [wondimnehbirhan@gmail.com]
+- **Email**: [wondimnehtigist@gmail.com]
 - ID: [GSR/5506/17]
